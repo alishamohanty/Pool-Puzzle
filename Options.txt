@@ -1,0 +1,19 @@
+<! OPTIONS > 
+x = 0
+212
+boeing.getSpeed()
+422
+int x = 0
+x++
+108
+x<3
+x<5
+biplane.accelerate()
+biplane.getSpeed()
+x<4
+424
+boeing.setSpeed()
+biplane.setSpeed()
+boeing.accelerate()
+x=1
+x--

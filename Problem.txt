@@ -1,0 +1,23 @@
+public class FlyTest {
+    public static void main(String[] args) {
+        Airplane biplane = new Airplane();
+        biplane.setSpeed( <...............> );
+        System.out.println( <.................> );
+
+        Jet boeing = new Jew();
+        boeing.setSpeed( <....................> );
+        System.out.println( <...................> );
+        <.................> ;
+        while ( <...............> ) {
+            <................>
+            System.out.println( <......................> );
+            if ( <...............> > 5000) {
+                <..................> ( <...................> * 2);
+            }
+            else {
+                <.....................>;
+            }
+        }
+        System.out.println( <...................> );
+    }
+}
