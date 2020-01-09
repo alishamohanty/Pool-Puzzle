@@ -17,5 +17,5 @@ need to use the snippets.
 - Your goal is to create a class that will compile, run and produce the output listed.
 
 Output Format 
-- Kindly submit a file Answer.java which has the class ( in Problem.txt ) with the appropriate
+- Kindly submit a file FlyTest.java which has the class ( in Problem.txt ) with the appropriate
 options( from Options.txt ) filled in the blanks.
